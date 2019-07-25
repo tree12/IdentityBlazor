@@ -3,7 +3,7 @@
 Vehicle tracking system.
 ### Getting Start
 * System has 2 roles 
-1. Admin - view report and add car license. (username :Admin, password :12345)
+1. Admin - view report and add car license plate. (username :Admin, password :12345)
 2. Driver - Add location every 30 minutes. (username :Driver, password :12345)
 * You can change the time from 30 minutes to be another in Driver.cshtml as code below
 

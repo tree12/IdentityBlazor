@@ -23,6 +23,6 @@ Vesho project==> Example name of this project. You can change the name of projec
 ```
 update-database -s VeshoCore.Server
 ```
-4. Run VeshoCore.Server project wtih visual studio 2022 and click register link. And then enjoy!
+4. Run VeshoCore.Server project wtih visual studio 2022. After that click register link. And then enjoy!
 
 
